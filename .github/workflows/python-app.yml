@@ -3,7 +3,7 @@ name: Python application
 on: [push, pull_request]
 
 jobs:
-  buid:
+  build:
 
 
     runs-on: ubuntu-latest
