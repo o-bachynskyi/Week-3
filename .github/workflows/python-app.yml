@@ -28,4 +28,4 @@ jobs:
     
     - name: Run tests
       run:
-        pythin -m unittest discover -s tests
+        python -m unittest discover -s tests
